@@ -1,3 +1,4 @@
+//Usage EXample
 #include "BST.h"
 #include <string>
 
